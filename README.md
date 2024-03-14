@@ -3,4 +3,4 @@ This project addresses the challenge of text summarization in Natural Language P
 
 The findings suggest that BART-large-cnn performs the best across all three ROUGE metrics, followed closely by BART-large. This indicates that the BART-large model, specifically when fine-tuned on a relevant dataset (like CNN/Daily Mail for summarization tasks), performs well at summarizing texts compared to the base and smaller T5 models. The T5 models perform comparably, with the T5-base scoring slightly higher than T5-small on ROUGE-1 and ROUGEL but lower on ROUGE-2.
 
-![alt text]([http://url/to/img.png](https://github.com/patilurjit/TL-DR-Extraction-from-Reddit-Threads-with-Neural-Networks/blob/main/Result%20Plot.png)https://github.com/patilurjit/TL-DR-Extraction-from-Reddit-Threads-with-Neural-Networks/blob/main/Result%20Plot.png)
+![alt text]((https://github.com/patilurjit/TL-DR-Extraction-from-Reddit-Threads-with-Neural-Networks/blob/main/Result%20Plot.png)https://github.com/patilurjit/TL-DR-Extraction-from-Reddit-Threads-with-Neural-Networks/blob/main/Result%20Plot.png)
